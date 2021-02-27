@@ -6,12 +6,9 @@
 #calculator 
 {
     max-width: 650px;
-    position: absolute;
-    top: 20%;
-    left: 35%;
+    margin: 40px auto;
 
     background-color: lightgray;
-    margin: auto;
    
     border: 2px solid lightgray;
     border-radius: 5px;
