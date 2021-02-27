@@ -5,22 +5,14 @@
 
 #calculator 
 {
-    width: 45%;
-    height: 80%;
-
-    /* min-width: 300px;
-    min-height: 400px; */
-
-    min-width: 30%;
-    min-height: 45%;
+    max-width: 650px;
+    position: absolute;
+    top: 20%;
+    left: 35%;
 
     background-color: lightgray;
     margin: auto;
-
-    /* margin-top: 80px; */
-
-    margin-top: 25vh;
-
+   
     border: 2px solid lightgray;
     border-radius: 5px;
     padding: 10px;
